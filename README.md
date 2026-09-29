@@ -230,4 +230,4 @@ Tom Clancy's HAWX is available as a complete free version with all features and 
 Take to the skies with confidence! Download Tom Clancy's HAWX now and experience aerial combat like never before!
 
 ---
-**Last updated:** 2026-09-29 06:45:56 UTC
+**Last updated:** 2026-09-29 13:56:31 UTC
